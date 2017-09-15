@@ -1,4 +1,4 @@
-Lenguaje que tiene como objetivo convertir de decimal a binario o hexadecimal
+Lenguaje que tiene como objetivo convertir de decimal a binario o a hexadecimal o viceversa
 
 statement ::= 'let' type word 'to' result
 
