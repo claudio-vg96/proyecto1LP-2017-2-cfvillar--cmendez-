@@ -114,3 +114,6 @@ def bin_to_negativec2_8bits(num):
                     num_c2.append('0')
         num_c2.reverse()
         return ''.join(num_c2)
+
+
+
